@@ -1,6 +1,7 @@
 # flutter_netflex
 
-A new Flutter project.
+넷플릭스 규격으로 구성
+firebase 연결 작업 까지 예정
 
 ## Getting Started
 
